@@ -6,6 +6,9 @@ This project was bootstrapped with npx create-react-app my-app --template typesc
 
 In the project directory, you can run:
 
+### `yarn install`
+Install in your local machine with this command.
+
 ### `yarn start`
 
 Runs the app in the development mode.\
